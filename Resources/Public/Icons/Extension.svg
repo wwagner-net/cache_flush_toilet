@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#1f3b57"/>
+  <!-- cistern -->
+  <rect x="17" y="8" width="30" height="19" rx="4" fill="#ffffff"/>
+  <!-- cache-clear bolt on the cistern -->
+  <path d="M36.5 9.5 L23.5 20 H30.5 L27 26 L40.5 15 H33.5 Z" fill="#ff8700"/>
+  <!-- seat rim -->
+  <rect x="10" y="29" width="44" height="7" rx="3.5" fill="#ffffff"/>
+  <!-- bowl and foot -->
+  <path d="M13 37 H51 C51 45 45 50 39 51 V56 H25 V51 C19 50 13 45 13 37 Z" fill="#ffffff"/>
+  <!-- water swirl -->
+  <path d="M22 40 C26 46 38 46 42 40" fill="none" stroke="#6ec1e4" stroke-width="3" stroke-linecap="round"/>
+</svg>

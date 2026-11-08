@@ -1,0 +1,42 @@
+{
+	"name": "wwagner/cache-flush-toilet",
+	"type": "typo3-cms-extension",
+	"description": "Cache Flush Toilet - Plays a toilet flush sound whenever a backend user clears the cache. Purely for fun.",
+	"license": "GPL-2.0-or-later",
+	"keywords": [
+		"TYPO3",
+		"extension",
+		"cache",
+		"fun",
+		"sound"
+	],
+	"authors": [
+		{
+			"name": "Wolfgang Wagner",
+			"email": "wwagner@wwagner.net",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": "^8.2",
+		"typo3/cms-backend": "^14.3",
+		"typo3/cms-core": "^14.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"WWagner\\CacheFlushToilet\\": "Classes/"
+		}
+	},
+	"config": {
+		"sort-packages": true
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "cache_flush_toilet",
+			"version": "1.0.0",
+			"Package": {
+				"providesPackages": {}
+			}
+		}
+	}
+}
