@@ -64,8 +64,16 @@ is updated.
 
 ## Sound
 
-The flush sound was generated with Magnific AI (Pikaso AI sound effects).
+The flush sound (`Resources/Public/Audio/toilet-flush.mp3`) was generated
+with Magnific (Pikaso AI sound effects) under a paid subscription, which
+transfers the rights in the output to the author. It is distributed as part
+of this extension under the same licence as the code.
+
+Note: the generator's terms do not allow its output to be used for training
+other AI models. This is information about the origin of the file, not an
+additional licence condition.
 
 ## Licence
 
-GPL-2.0-or-later, see [LICENSE](LICENSE).
+GPL-2.0-or-later, see [LICENSE](LICENSE). This applies to the code, the icon
+and the sound.
