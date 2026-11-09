@@ -17,6 +17,11 @@
 			"role": "Developer"
 		}
 	],
+	"homepage": "https://github.com/wwagner-net/cache_flush_toilet",
+	"support": {
+		"issues": "https://github.com/wwagner-net/cache_flush_toilet/issues",
+		"source": "https://github.com/wwagner-net/cache_flush_toilet"
+	},
 	"require": {
 		"php": "^8.2",
 		"typo3/cms-backend": "^14.3",
